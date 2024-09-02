@@ -1,4 +1,4 @@
-# PCA: EXP-1  SUM ARRAY GPU
+#                                                               PCA: EXP-1  SUM ARRAY GPU
 <h3>NAME: ANISH RAJ P</h3>
 <h3>REGISTER NO: 212222230010</h3>
 <h3>EX. NO:1</h3>
